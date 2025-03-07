@@ -22,7 +22,7 @@ setup(
     description="A Python package for Sanskrit-based text steganography in images.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/kat-cipher",  # Add your GitHub repo link
+    url="https://github.com/YashAPro1/kat_cipher.git",  # Add your GitHub repo link
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

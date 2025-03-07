@@ -75,4 +75,4 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 ## 📧 Contact
 
-For questions or support, contact **Your Name** at **your.email@example.com** or visit [GitHub Repo]().
+For questions or support, contact **Your Name** at **your.email@example.com** or visit [GitHub Repo](https://github.com/YashAPro1/kat_cipher.git).
