@@ -188,8 +188,7 @@ This project draws inspiration from:
 
 For questions, support or collaboration:
 
-- **Developer**: Yash Dubey
-- **Email**: your.email@example.com
+- **Developer**: Yashkumar Dubey
 - **GitHub**: [https://github.com/YashAPro1/kat_cipher](https://github.com/YashAPro1/kat_cipher)
 
 ---
