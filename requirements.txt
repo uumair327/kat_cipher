@@ -1,4 +1,5 @@
-opencv-python
-numpy
-PyQt6
-PyQt6-tools
+opencv-python==4.10.0.84
+numpy==1.24.4
+PyQt6==6.4.2
+PyQt6-tools==6.4.2.3.3
+PyQt6-plugins==6.4.2.2.2
