@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="kat_cipher",
-    version="1.0.0",
+    version="1.0.1",  # Updated version to resolve PyPI upload conflict
     packages=find_packages(),
     install_requires=[
         "opencv-python>=4.9.0.80",
