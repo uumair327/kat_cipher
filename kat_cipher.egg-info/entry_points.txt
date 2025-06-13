@@ -1,2 +1,0 @@
-[console_scripts]
-kat_cipher = kat_cipher.gui:main
