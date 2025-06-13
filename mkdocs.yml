@@ -1,0 +1,50 @@
+site_name: KAT Cipher
+site_url: https://uumair327.github.io/kat_cipher/
+site_author: uumair327
+repo_url: https://github.com/uumair327/kat_cipher
+repo_name: uumair327/kat_cipher
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.sections
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tracking
+    - search.highlight
+    - search.suggest
+    - content.code.annotate
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.footer
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - pymdownx.superfences
+  - pymdownx.arithmatex
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.smartsymbols
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - API Reference: api.md
+  - Examples: examples.md
+  - License: license.md
+
+plugins:
+  - search
+  - mkdocstrings
+  - mkdocs-jupyter
