@@ -37,7 +37,7 @@ jobs:
 
   deploy:
     needs: test
-    if: github.event_name == 'release' && github.event.action == 'created'
+    if: github.ref == 'refs/heads/main'  # Run on every push to main branch
     runs-on: ubuntu-latest
     
     steps:
