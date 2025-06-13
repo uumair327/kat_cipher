@@ -8,11 +8,9 @@ setup(
     version="1.0.1",  # Updated version to resolve PyPI upload conflict
     packages=find_packages(),
     install_requires=[
-        "opencv-python>=4.9.0.80",
-        "numpy>=1.26.0",
-        "PyQt6>=6.4.2",
-        "PyQt6-tools==6.4.2.3.3",
-        "PyQt6-plugins==6.4.2.2.3"
+        "opencv-python",
+        "numpy",
+        "PyQt6"
     ],
     entry_points={
         "console_scripts": [
