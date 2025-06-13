@@ -12,7 +12,7 @@ setup(
         "numpy>=1.26.0",
         "PyQt6>=6.4.2",
         "PyQt6-tools==6.4.2.3.3",
-        "PyQt6-plugins==6.4.2.2.2"
+        "PyQt6-plugins==6.4.2.2.3"
     ],
     entry_points={
         "console_scripts": [
