@@ -8,9 +8,11 @@ setup(
     version="1.0.0",
     packages=find_packages(),
     install_requires=[
-        "opencv-python",
-        "numpy",
-        "pyqt6"
+        "opencv-python>=4.9.0.80",
+        "numpy>=1.26.0",
+        "PyQt6>=6.6.0",
+        "PyQt6-tools>=6.6.0.3.3",
+        "PyQt6-plugins>=6.6.0.3.3"
     ],
     entry_points={
         "console_scripts": [
